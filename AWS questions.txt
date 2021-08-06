@@ -1,0 +1,7 @@
+1.	What is an EBS volume?
+2.	Can we attach an EBS volume which is in one availability zone to an ec2 instance of different availability zone?
+3.	What is the default option for EBS root volume?
+4.	How can we assure EBS root volume is intact even after instance termination?
+5.	What is the use case of EBS volumes?
+6.	What type of EBS volumes have multi attach feature?
+7.	What is the use case of multi-attach feature in EBS volume?
